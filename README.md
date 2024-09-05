@@ -121,5 +121,5 @@ Congratulations! You've successfully set up Tafiti, a privacy-focused search eng
 Feel free to reach out if you have any questions or need further assistance. Happy searching!
 
 # RESOURCES
-- find tafiti project documentation [here]{./tafiti-documentation.md}
-- access tafiti using this [link]{https://search.vincentmugendi.tech}
+- find tafiti project documentation [here](./tafiti-documentation.md)
+- access tafiti using this [link](https://search.vincentmugendi.tech)
