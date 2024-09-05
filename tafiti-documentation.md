@@ -75,5 +75,5 @@
 
 The Tafiti project was a valuable learning experience that enhanced my skills in cloud computing, containerization, web server configuration, and security. By building Tafiti, I demonstrated the ability to deploy and manage a privacy-focused search engine while ensuring a secure and ad-free user experience.
 
-Feel free to explore Tafiti and witness the results of this project firsthand [HERE]{https://search.vincentmugendi.tech} 
+Feel free to explore Tafiti and witness the results of this project firsthand [HERE](https://search.vincentmugendi.tech)
 For any questions or additional information, please reach out, check my profile for contact details.
